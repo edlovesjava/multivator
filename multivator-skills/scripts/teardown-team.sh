@@ -31,7 +31,7 @@ else
 fi
 
 # Clean output files
-rm -f .claude/VERDICT.md .claude/SUMMARY.md
+rm -f VERDICT.md SUMMARY.md
 echo "    Output files cleared"
 
 echo ""

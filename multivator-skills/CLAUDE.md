@@ -64,19 +64,20 @@ Agents communicate via Claude Code's built-in tools:
 | Path | Purpose |
 |---|---|
 | `specs/` | RFP input files |
-| `.claude/VERDICT.md` | Judge output with scores and decision |
-| `.claude/SUMMARY.md` | Team Lead final report |
+| `VERDICT.md` | Judge output with scores and decision |
+| `SUMMARY.md` | Team Lead final report |
 
-Each implementor's worktree contains:
+Each implementor's worktree contains a `bid/` directory with:
 - `APPROACH.md` — their design rationale
 - `SELF-REVIEW.md` — honest self-assessment
 - Source code and tests
+- Additional artifacts as required by the RFP
 
 ## Reading the Results
 
 ```bash
-cat .claude/SUMMARY.md    # Plain English outcome
-cat .claude/VERDICT.md    # Full scored breakdown
+cat SUMMARY.md    # Plain English outcome
+cat VERDICT.md    # Full scored breakdown
 ```
 
 ## Merging a Result

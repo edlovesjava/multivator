@@ -16,23 +16,20 @@ THe different bids
 
 ## Implementor A
 
-- APPROACH.md
-- COST_ANALYSIS.md
-- INTERFACES.md
-- POWER-ANALYSIS.md
-- PRIVACY-ANALYSIS.md
-- SELF-REVIEW.md
-- TEST-STRATEGY.md
-
+- [APPROACH.md ↔ B-APPROACH.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
+- [COST_ANALYSIS.md ↔ B-COST-ANALYSIS.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
+- [INTERFACES.md ↔ B-INTERACES.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
+- [POWER-ANALYSIS.md ↔ B-POWER-ANALYSIS.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
+- [PRIVACY-ANALYSIS.md ↔ B-PRIVACY-ANALYSIS.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
+- [SELF-REVIEW.md ↔ B-SELF-REVIEW.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
+- [TEST-STRATEGY.md ↔ B-TEST-STRATEGY.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
 
 ## Implementor B
 
-- B-APPROACH.md
-- B-COST-ANALYSIS.md
-- B-INTERACES.md
-- B-POWER-ANALYSIS.md
-- B-PRIVACY-ANALYSIS.md
-- B-SELF-REVIEW.md
-- B-TEST-STRATEGY.md
-
-
+- [B-APPROACH.md ↔ APPROACH.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
+- [B-COST-ANALYSIS.md ↔ COST_ANALYSIS.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
+- [B-INTERACES.md ↔ INTERFACES.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
+- [B-POWER-ANALYSIS.md ↔ POWER-ANALYSIS.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
+- [B-PRIVACY-ANALYSIS.md ↔ PRIVACY-ANALYSIS.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
+- [B-SELF-REVIEW.md ↔ SELF-REVIEW.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
+- [B-TEST-STRATEGY.md ↔ TEST-STRATEGY.md](https://github.com/edlovesjava/multivator/compare/main...main?diff=split&w=1)
